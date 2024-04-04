@@ -1,4 +1,4 @@
-# Django package
+# Django package -- test
 
 This is a [Kurtosis](https://github.com/kurtosis-tech/kurtosis/) Django package you can use as a template to create your own Django project.
 
